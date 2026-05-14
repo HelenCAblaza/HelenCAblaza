@@ -4,7 +4,7 @@
 
 ## The Cat
 <details>
-  <summary>says meow :smirk_cat:</summary>
+says meow :smirk_cat:
 </details>
 
 
